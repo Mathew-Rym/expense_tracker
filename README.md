@@ -36,7 +36,7 @@ Make sure you have the following installed:
    Open a terminal and run the following command to clone the repo:
 
    ```bash
-   git clone https://github.com/theMungai/expense-tracker.git
+   git clone https://github.com/Mathew-Rym/expense_tracker.git
 
    cd expense-tracker
 
